@@ -1,0 +1,8 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\Администратор\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(60,63): warning C4244: аргумент: преобразование "int64_t" в "char", возможна потеря данных
+  Создание кода
+  208 of 827 functions (25.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    76 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication12.vcxproj -> C:\Users\Администратор\source\repos\ConsoleApplication12\x64\Release\ConsoleApplication12.exe

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication12.cpp
+C:\Users\Администратор\source\repos\ConsoleApplication12\ConsoleApplication12.cpp(50,63): warning C4244: аргумент: преобразование "int64_t" в "char", возможна потеря данных
+  ConsoleApplication12.vcxproj -> C:\Users\Администратор\source\repos\ConsoleApplication12\x64\Debug\ConsoleApplication12.exe
